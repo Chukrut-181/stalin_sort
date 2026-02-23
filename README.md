@@ -21,7 +21,7 @@ Run:
 At least two arguments are required for the purge to begin.
 
 Example:
-bash./purge 3 1 4 5 2 9
+./purge 3 1 4 5 2 9
 Output:
 3
 4
