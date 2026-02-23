@@ -13,10 +13,10 @@ Any element that fails to surpass its predecessor is silently eliminated.
 ## Instructions
 
 Compile:
-bashcc -Wall -Wextra -Werror stalin_sort.c -o purge
+cc -Wall -Wextra -Werror stalin_sort.c -o purge
 
 Run:
-bash./purge arg1 arg2 arg3 ...
+./purge arg1 arg2 arg3 ... argN
 
 At least two arguments are required for the purge to begin.
 
