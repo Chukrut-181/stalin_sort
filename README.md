@@ -27,4 +27,6 @@ Output:
 4
 5
 9
-Elements 1, 2, and any non-numeric arguments are eliminated. Long live the algorithm!
+Elements 1, 2, and any non-numeric arguments are eliminated.
+
+Long live the algorithm!
